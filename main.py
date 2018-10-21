@@ -12,6 +12,8 @@
 #  License for the specific language governing permissions and limitations
 #  under the License.
 
+#test制作時期2018.10.21
+
 import os
 import sys
 from argparse import ArgumentParser
